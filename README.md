@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PerryOHIO
 - 👀 I’m interested in Data Analysis 
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Python,R and Machine Language
+- 💞️ I’m looking to collaborate on Data Analytic Project
+- 📫  perryohio1@gmail.com 
 
 <!---
 PerryOHIO/PerryOHIO is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
